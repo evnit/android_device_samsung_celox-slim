@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_samsung_msm8660-common",
+    "repository": "android_device_samsung_msm8660-slim",
     "target_path": "device/samsung/msm8660-common"
   },
   {
